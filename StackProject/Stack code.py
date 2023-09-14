@@ -61,6 +61,7 @@ def menu(choice):
            print("Exiting...")
        else:
            print("Invalid choice. Please try again.")
+           n = 1
 # end of while loop and end of program
 
 choice = input()

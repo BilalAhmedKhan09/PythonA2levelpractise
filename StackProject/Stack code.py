@@ -63,5 +63,4 @@ def menu(choice):
            print("Invalid choice. Please try again.")
 # end of while loop and end of program
 
-choice = input()
 menu(choice)

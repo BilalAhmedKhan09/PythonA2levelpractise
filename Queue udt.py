@@ -1,4 +1,4 @@
-
+#CODE FOR QUEUE WITH UDT
 class saledata:
     def _init_(self) :
         self.id = " "
